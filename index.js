@@ -594,6 +594,10 @@ const userCases = {
       name: "极速打车",
       url: "https://user-images.githubusercontent.com/9129438/72401533-3bb43580-3787-11ea-8b34-f35f7c2d8d04.png"
     },
+{
+      name: "布鲁可成长中心",
+      url: "https://github.com/luodanyalian/miniprogram/blob/master/paibloks.jpg"
+    }
   ],
   支付宝小程序: [
     {

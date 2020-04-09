@@ -539,6 +539,10 @@ const userCases = {
     {
       name: "我的衡师",
       url: "https://user-images.githubusercontent.com/3080820/78109823-94ad7480-742c-11ea-9c8b-8a685fbde983.jpg"
+    },
+    {
+      name: "布鲁可成长中心",
+      url: "https://github.com/luodanyalian/miniprogram/blob/master/paibloks.jpg"
     }
   ],
   H5: [

@@ -555,6 +555,10 @@ const userCases = {
     {
       name: "趣扫云商户通",
       url: "https://user-images.githubusercontent.com/3080820/80064006-b6040b00-8569-11ea-9d77-53b8e8257abc.jpg"
+    },
+    {
+      name: "布鲁可积木同城购",
+      url: "https://mp.weixin.qq.com/wxopen/qrcode?action=show&type=2&fakeid=3829158969&token=1956533552"
     }
   ],
   H5: [
